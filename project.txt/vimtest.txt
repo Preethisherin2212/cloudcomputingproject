@@ -1,0 +1,351 @@
+The quick brown fox jump over the lazy dog.
+A journey of a thousand miles  mouse begins with a single step.
+To err is human, to forgive divine.
+Better later then never,but never late is better.
+Success usually comes to those who are too busy to be looking for it 
+Replace early bird catches the worm,but the second gets the cheese1  sudo apt update
+    2  sudo apt upgrade
+    3  ifconfig
+    4  sudo apt install net-tools
+    5  gcc --version
+    6  sudo apt install gcc
+    7  sudo apt install g++
+    8  gcc --version
+    9  g++ version
+   10  g++ --version
+   11  java -version
+   12  java --version
+   13  sudo apt install openjdk-8-jre-headless
+   14  jaavc
+   15  sudo apt install openjdk-8-jdk-headless
+   16  javac
+   17  java -version
+   18  clear
+   19  gedit sample.c
+   20  gcc sample.c
+   21  ./a.out
+   22  gedit swap.c
+   23  gcc swap.c
+   24  ./a.out
+   25  gedit integer.cpp
+   26  g++ integer.cpp
+   27  ./a.out
+   28  gedit HellWorld.java
+   29  javac HelloWorld.java
+   30  ls
+   31  javac HellWorld.java
+   32  java HellWorld
+   33  java HellWorld.java
+   34  gedit GFG.java
+   35  javac GFG.java
+   36  java GFG.java
+   37  java GFG
+   38  javac HellWorld.java
+   39  java HellWorld
+   40  javac HelloWorld.java
+   41  java HelloWorld
+   42  gedit HelloWorld.java
+   43  javac HelloWorld.java
+   44  java Helloworld
+   45  java Helloworld.java
+   46  javac
+   47  java -version
+   48  javac GFG.java
+   49  java GFG
+   50  cd Downloads/
+   51  ls
+   52  javac DigitalClock.java
+   53  appletviewer DigitalClock
+   54  sudo apt install openjdk-8-jdk
+   55  javac DigitalClock.java
+   56  appletviewer DigitalClock
+   57  javac DigitalClock.java
+   58  cd Downloads/
+   59  javac DigitalClock.java
+   60  appletviewer DigitalClock
+   61  appletviewer DigitalClock.java
+   62  javac GraphicsDemo.java
+   63  appletviewer GraphicsDemo.java
+   64  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   65  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   66  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   67  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   68  ifconfig
+   69  su administrator
+   70  sudo bash
+   71  vi vimtest.txt
+   72  nano file.txt
+   73  cat file.txt
+   74  cd /
+   75  sudo user add preethi
+   76  cat/etc/passwd
+   77  cd /
+   78  sudo useradd preethi
+   79  su preethi
+   80  sudo passwd preethi
+   81  sudo preethi del
+   82  sudo del preethi
+   83  cd /
+   84  sudo useradd sherin
+   85  sudo passwd sherin
+   86  su sherin
+   87  cd /
+   88  sudo useradd preethi
+   89  sudo useradd sherin
+   90  cd \
+   91  cd /
+   92  sudo user sherin
+   93  sudo passwd sherin
+   94  su sherin
+   95  cd /
+   96  sudo useradd sherin
+   97  su passwd sherin
+   98  sudo passwd preethi
+   99  su sherin
+  100  sudo sherindel
+  101  sudo userdel sherin
+  102  sudo userdel -f sherin
+  103  cat -eec
+  104  cat /eec
+  105  cat /etc/passwd
+  106  clear
+  107  cat /etc/passwd
+  108  clear
+  109  cat /etc/passwd
+  110  sudo userdel -f preethi
+  111  cat /etc/passwd
+  112  clear
+  113  cd/mnt/d
+  114  nano script.sh
+  115  ./script.sh
+  116  chmod+x script.sh
+  117  ./script.sh
+  118  chmod +x script.sh
+  119  ./script.sh
+  120  nano script.sh
+  121  chmod +x script.sh
+  122  ./script.sh
+  123  nano script.sh
+  124  ./script.sh
+  125  nano script.sh
+  126  ./script.sh
+  127  nano script.sh
+  128  ./script.sh
+  129  nano script.sh
+  130  cklear
+  131  clear
+  132  ./script.sh
+  133  nano script.sh
+  134  ./script.sh
+  135  nano script.sh
+  136  ./script.sh
+  137  nano script.sh
+  138  ./script.sh
+  139  nano script.sh
+  140  ./script.sh
+  141  nano script.sh
+  142  ./script.sh
+  143  nano script.sh
+  144  ./script.sh
+  145  nano script.sh
+  146  ./script.sh
+  147  nano nano script.sh
+  148  ps
+  149  top
+  150  nano script.sh
+  151  ./script.sh
+  152  nano script.sh
+  153  ./script.sh
+  154  nano script.dh
+  155  sudo apt update
+  156  sudo apt install git
+  157  git--version
+  158  git --version
+  159  cd /mnt/d
+  160  /mnt/d#
+  161  cd /mnt/d
+  162  cd home
+  163  ls
+  164  cd /
+  165  cd home
+  166  ls
+  167  cd administrator
+  168  cd desktop
+  169  cd /
+  170  cd home
+  171  ls
+  172  cd administrator
+  173  cd Desktop
+  174  mkdir cloud
+  175  ls
+  176  git --version
+  177  cd cloud
+  178  git init
+  179  git config --list
+  180  git config --global user.name "preethi"
+  181  git config --list
+  182  git --global init.defaultbranch main
+  183  git --global init.defaultBranch main
+  184  git config --list
+  185  git config --global user.email "gamil"
+  186  24bsitpreethisherint@skacas.ac.in
+  187  get config --global user.email "24bsit144preethisherint@skacas.ac.in"
+  188  ls
+  189  --ls
+  190  git config --ls
+  191  git config --global core.eol lf
+  192  git config --list
+  193  gi condig --global user.email "gamil"
+  194  git config --global user.email "gamil"
+  195  git config --global user.email "24bsit144preethisherint@skacas.ac.in"
+  196  git config --list
+  197  git config --global init.default Branch main
+  198  git config --init
+  199  git config --list
+  200  git config --global core.eol=lf
+  201  git config --list
+  202  git config --global init.defaultBranch main
+  203  git config --list
+  204  clear
+  205  git config --list
+  206  git config --global core.autocrlf input
+  207  git config --list
+  208  clear
+  209  ls
+  210  cd cloud
+  211  ls
+  212  rm *
+  213  ls
+  214  git clone https://github.com/Preethisherin2212/demcloud.git
+  215  ls
+  216  cd demcloud
+  217  touch file.txt
+  218  ls
+  219  git add file.txt
+  220  cat > file.txt
+  221  git commit -m "first commit"
+  222  git status
+  223  git add file.txt
+  224  git status
+  225  git add file.txt
+  226  git status
+  227  git commit -m "second commit"
+  228  git status
+  229  git push
+  230  git remote -v
+  231  git remote set-url origin "http://ghp_xyz2HnpcCuWnk7PHX0CKXVUOpPsoFo1fEr7u@github.com/preethi/demcloud"
+  232  git remote set-url origin "https://ghp_xyz2HnpcCuWnk7PHX0CKXVUOpPsoFo1fEr7u@github.com/preethi/demcloud"
+  233  git remote -v
+  234  git status
+  235  git push origin main
+  236  git clone "https://ghp_xyz2HnpcCuWnK7PHX0CKXVUOpPsoFo1fEr7u@github.com/preethisherin2212/demcloud
+  237  git clone "https://ghp_xyz2HnpcCuWnK7PHX0CKXVUOpPsoFo1fEr7u@github.com/preethisherin2212/demcloud
+  238  git clone "https://ghp_xyz2HnpcCuWnk7PHX0CKXVUOpPsoFo1fEr7u@github.com/preethisherin2212/demcloud"
+  239  git push origin main
+  240  clear
+  241  mkdir git
+  242  cd git
+  243  git init
+  244  git config --list
+  245  git config --global
+  246  git clone "https://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@githuc.com/preethisherin2212/gittest"
+  247  cd git
+  248  cd ..
+  249  mkdir git
+  250  cd git
+  251  git init
+  252  git clone
+  253  git clone "https://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@github.com/preethisherin2212/gittest.git"
+  254  ls
+  255  cd gittest
+  256  cat > test.txt
+  257  git add test.txt
+  258  git commit -m "test commit"
+  259  git status
+  260  git push origin main
+  261  git commit -v
+  262  cat test.txt
+  263  history
+  264  clear
+  265  mkdir project
+  266  cd /
+  267  cd home
+  268  ls
+  269  cd administrator
+  270  cd desktop
+  271  cd Desktop
+  272  mkdir project
+  273  cd project
+  274  mkdir january
+  275  cd january
+  276  mkdir february
+  277  cd february
+  278  mkdir march
+  279  cd march
+  280  mkdir april
+  281  cd april
+  282  mkdir may
+  283  cd may
+  284  mkdie june
+  285  cd june
+  286  mkdir june
+  287  cd june
+  288  mkdir july
+  289  cd july
+  290  mkdir augest
+  291  cd augest
+  292  mkdir september
+  293  cd september
+  294  mkdir october
+  295  cd october
+  296  mkdir november
+  297  cd november
+  298  mkdir december
+  299  cd december
+  300  cd january
+  301  cd ..
+  302  cd..
+  303  cd ..
+  304  cd..
+  305  cd ..
+  306  mkdir jan
+  307  cd jan
+  308  touch file1.txt
+  309  cd ..
+  310  mkdir feb
+  311  cd feb
+  312  touch file2.txt
+  313  cd ..
+  314  mkdir mar
+  315  cd mar
+  316  cd ..
+  317  mkdir apr
+  318  cd apr
+  319  cd ..
+  320  mkdir may
+  321  cd may
+  322  cd ..
+  323  history
+  324  cd /
+  325  cd home
+  326  ls
+  327  administrator
+  328  cd administrator
+  329  cd Desktop
+  330  vi vim file.txt
+  331  top
+  332  vi vim file.txt
+  333  grep
+  334  grep file.txt
+  335  grep "bin" file.txt
+  336  ls
+  337  grep -e
+  338  clear
+  339  vim file.txt
+  340  grep -l
+  341  vim file.txt
+  342  grep -e "small" -e "earth" vim file.txt
+  343  touch file.txt
+  344  cp -r bloom snap.txt
+  345  history
+
